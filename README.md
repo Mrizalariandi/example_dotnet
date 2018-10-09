@@ -3,6 +3,9 @@
 > dotnet ef migrations add InitialCreate
 > dotnet ef database update --context DBBakumContext
 
+# Running #
+> dotnet build
+> dotnet run
 
 # Patch Database #
 USE dev_dbbakum;
