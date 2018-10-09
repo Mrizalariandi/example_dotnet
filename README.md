@@ -1,4 +1,5 @@
 # README #
+> create a database , name is DBbakum in sql server
 > dotnet ef migrations add InitialCreate
 > dotnet ef database update --context DBBakumContext
 
